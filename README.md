@@ -46,6 +46,8 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+'''
+
 ---
 **🔹 Running the Project**
 1. Open Bayesian_Heart_Disease_Predictor.ipynb (use Google Colab or Jupyter)
